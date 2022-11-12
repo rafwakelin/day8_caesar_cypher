@@ -31,4 +31,3 @@ while True:
   if again == 'no':
     print("\n\nThank you for using Caesar Cypher. Hope you enjoyed your experience!")
     break
-  
